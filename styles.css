@@ -1,0 +1,21 @@
+#carouselBody {
+    text-align: center;
+    margin-top: 50px;
+  }
+ 
+  #imageContainer {
+    display: inline-block;
+  }
+ 
+img {
+    height: 500x;
+    width: 500px
+}
+
+
+#prevButton, #nextButton {
+    margin-top: 10px;
+    text-align: center;
+}
+
+  
